@@ -23,6 +23,17 @@ The **Woolworths Rewards Dashboard** is a Power BI project built to monitor and 
 3. **Rewards & Redemptions** – Points flow, redemption behaviour, and popular reward categories.  
 4. **Store Performance** – Top Sydney store locations by member activity and redemptions.  
 5. **Trends Analysis** – Time-based analysis of registrations, transactions, and reward activity.  
+---
+## 🚀 New Dashboard Insights
+
+**🏬 Store & Customer Drill Through**
+New dedicated pages allow drill through into specific **store locations** and **customer segments**, enabling customized insights at a granular level.
+
+**🎯 Threshold Redeemed Percent**
+A **target redemption percentage** is set to evaluate program success and benchmark **store performance** against expectations.
+
+**📖 Narrative Visuals**
+Automatically generate **tailored text-based insights** based on dashboard metrics, simplifying interpretation for stakeholders.
 
 ---
 ## 🔑 Key Insights
